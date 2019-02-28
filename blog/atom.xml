@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BASIC blog full text feed    </title>
+        <link href="/blog/atom.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2016-06-30T19:56:24Z</updated>
+
+    <id>/blog/atom.xml/</id>
+
+            <entry>
+            <title type="html">Bitbar Plugins for Github and ProductHunt Recognition</title>
+            <author><name>Varun Malhotra</name></author>
+            <link href="/blog/2016/02/bitbar-plugins-for-github-and-producthunt.html"/>
+            <updated>2016-02-13T02:49:00Z</updated>
+            <published>2016-02-13T02:49:00Z</published>
+            <id>/blog/2016/02/bitbar-plugins-for-github-and-producthunt.html</id>
+                        <category   scheme="/blog/tags"
+                        term="bitbar"
+                        label="Bitbar" />
+                        <category   scheme="/blog/tags"
+                        term="bitbar-plugin"
+                        label="Bitbar-Plugin" />
+                        <category   scheme="/blog/tags"
+                        term="ProductHunt"
+                        label="Producthunt" />
+                        <category   scheme="/blog/tags"
+                        term="Github"
+                        label="Github" />
+            
+            <content type="html">
+                                            </content>
+        </entry>
+            <entry>
+            <title type="html">Redesigned website using Material Design</title>
+            <author><name>Varun Malhotra</name></author>
+            <link href="/blog/2015/02/redesigned-theme-using-materiaize.html"/>
+            <updated>2015-03-02T02:00:00Z</updated>
+            <published>2015-03-02T02:00:00Z</published>
+            <id>/blog/2015/02/redesigned-theme-using-materiaize.html</id>
+                        <category   scheme="/blog/tags"
+                        term="materialize"
+                        label="Materialize" />
+                        <category   scheme="/blog/tags"
+                        term="material design"
+                        label="Material Design" />
+            
+            <content type="html">
+                                            </content>
+        </entry>
+            <entry>
+            <title type="html">Launching my second Firefox-Os App - GistHub</title>
+            <author><name>Varun Malhotra</name></author>
+            <link href="/blog/2013/07/fOS-GistHub.html"/>
+            <updated>2013-07-12T00:00:00Z</updated>
+            <published>2013-07-12T00:00:00Z</published>
+            <id>/blog/2013/07/fOS-GistHub.html</id>
+                        <category   scheme="/blog/tags"
+                        term="HTML5"
+                        label="Html5" />
+                        <category   scheme="/blog/tags"
+                        term="CSS3"
+                        label="Css3" />
+                        <category   scheme="/blog/tags"
+                        term="JavaScript"
+                        label="Javascript" />
+                        <category   scheme="/blog/tags"
+                        term="JQuery"
+                        label="Jquery" />
+                        <category   scheme="/blog/tags"
+                        term="AJAX"
+                        label="Ajax" />
+                        <category   scheme="/blog/tags"
+                        term="IndexedDB"
+                        label="Indexeddb" />
+                        <category   scheme="/blog/tags"
+                        term="Bootstrap"
+                        label="Bootstrap" />
+                        <category   scheme="/blog/tags"
+                        term="GithubAPI"
+                        label="Githubapi" />
+            
+            <content type="html">
+                                            </content>
+        </entry>
+            <entry>
+            <title type="html">Hands on Firefox-OS Apps - Introducing CSP</title>
+            <author><name>Varun Malhotra</name></author>
+            <link href="/blog/2013/07/fOS-intro.html"/>
+            <updated>2013-07-01T00:00:00Z</updated>
+            <published>2013-07-01T00:00:00Z</published>
+            <id>/blog/2013/07/fOS-intro.html</id>
+                        <category   scheme="/blog/tags"
+                        term="HTML5"
+                        label="Html5" />
+                        <category   scheme="/blog/tags"
+                        term="CSS3"
+                        label="Css3" />
+                        <category   scheme="/blog/tags"
+                        term="JavaScript"
+                        label="Javascript" />
+                        <category   scheme="/blog/tags"
+                        term="CSP"
+                        label="Csp" />
+            
+            <content type="html">
+                                            </content>
+        </entry>
+            <entry>
+            <title type="html">Getting Started with Hyde</title>
+            <author><name>Varun Malhotra</name></author>
+            <link href="/blog/2013/06/hyde.html"/>
+            <updated>2013-06-04T20:00:00Z</updated>
+            <published>2013-06-04T20:00:00Z</published>
+            <id>/blog/2013/06/hyde.html</id>
+                        <category   scheme="/blog/tags"
+                        term="python"
+                        label="Python" />
+                        <category   scheme="/blog/tags"
+                        term="django"
+                        label="Django" />
+                        <category   scheme="/blog/tags"
+                        term="markdown"
+                        label="Markdown" />
+                        <category   scheme="/blog/tags"
+                        term="jinja2"
+                        label="Jinja2" />
+                        <category   scheme="/blog/tags"
+                        term="hyde"
+                        label="Hyde" />
+            
+            <content type="html">
+                                            </content>
+        </entry>
+    </feed>
